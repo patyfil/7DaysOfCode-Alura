@@ -1,5 +1,5 @@
-#7DaysOfCode 
-![alt text]( )
+#7DaysOfCode  
+![alt text](https://github.com/patyfil/7DaysOfCode-Alura/blob/main/7DaysOfCode.svg)
 
 <h1>Projetos feitos no #7DaysOfCode com JS</h1>
 - Realizar um projeto por dia
