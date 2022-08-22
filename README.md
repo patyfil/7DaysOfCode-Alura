@@ -54,7 +54,7 @@ let stringDez = '10'
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }</code>
 
-[Solucão](https://gist.github.com/fabriciocarraro/8261fd75a92d761b704c6f0997b32264)
+[Solucão Desafio 1](https://gist.github.com/fabriciocarraro/8261fd75a92d761b704c6f0997b32264)
 
 ## 7DaysOfCode - Lógica JS 2/7: Variáveis 
 
@@ -85,7 +85,7 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 1 > Muito bom! Continue estudando e você terá muito sucesso.
 2 > Ahh que pena... Já tentou aprender outras linguagens?
 
-[Solucão Desafio 2](https://github.com/patyfil/7DaysOfCode-Alura/blob/main/desafio2.html)
+[Solucão Desafio 2](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio2.html)
 
 ## 7DaysOfCode - Lógica JS 3/7: Fluxo de decisão
 
@@ -109,7 +109,7 @@ O importante é que a pessoa que estiver jogando possa sempre escolher qual deci
 
 Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
 
-[Solução Desafio 3]()
+[Solução Desafio 3](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio3.html)
 
 ## 7DaysOfCode - Lógica JS 4/7: Loops e Randomização
 
@@ -122,7 +122,7 @@ No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número 
 
 Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.
 
-[Solução Desafio 4]()
+[Solução Desafio 4](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio4-nrRand.html)
 
 ## 7DaysOfCode - Lógica JS 5/7: Arrays e Coleções
 
@@ -152,7 +152,7 @@ O programa deverá imprimir, por exemplo:
 </code>
     
 
-[Solução Desafio 5]()
+[Solução Desafio 5](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio5.html)
 
 ## 7DaysOfCode - Lógica JS 6/7: Remoção de Arrays
 
@@ -172,7 +172,7 @@ Por exemplo: “Não foi possível encontrar o item dentro da lista!”
 
 Lembre-se que a opção de remover um item só deverá estar disponível a partir do momento que existir ao menos um elemento dentro da lista de compras.
 
-[Solução Desafio 6]()
+[Solução Desafio 6](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio6.html)
 
 ## 7DaysOfCode - Lógica JS 7/7: Funções em Javascript
 
@@ -186,4 +186,4 @@ Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa im
 As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, 
 o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
 
-[Solução Desafio 7]()
+[Solução Desafio 7](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio7.html)
