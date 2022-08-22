@@ -1,21 +1,4 @@
-#7DaysOfCode  
-![alt text](https://github.com/patyfil/7DaysOfCode-Alura/blob/main/7DaysOfCode.svg)
-
-<h1>Projetos feitos no #7DaysOfCode com JS</h1>
-- Realizar um projeto por dia
-- Realizado pela instrutora de Font-End da Alura Rafaella Ballerini
-
-
-|  DIA   |                               ATIVIDADE              |STATUS            |
-|--------|------------------------------------------------------|------------------|
-|DIA 1   |`Trabalhando com Operadores Lógicos em Javascript`    |:white_check_mark:|
-|DIA 2   |`Trabalhando com Variáveis em Javascript`             |:white_check_mark:|
-|DIA 3   |`Trabalhando com Fluxo de Decisão em Javascript`      |:white_check_mark:|
-|DIA 4   |`Trabalhando Loops e Randomização em Javascript`      |:white_check_mark:|
-|DIA 5   |`Trabalhando com Arrays e Coleções em Javascript`     |:white_check_mark:|
-|DIA 6   |`Trabalhando com remoção de Arrays em Javascript`     |:white_check_mark:|
-|DIA 7   |`Trabalhando com Funções em Javascript`               |:white_check_mark:|
-
+<h1>Projetos feitos no #7DaysOfCode</h1>
 
 <h2>Desafios</h2>
 
@@ -26,7 +9,7 @@
 
 ⨀ [Desafio JS 3/7](#7daysofcode---lógica-js-37-fluxo-de-decisão)
 
-⨀ [Desafio JS 4/7](#7daysofcode---lógica-js-47-mais-loops-e-randomização)
+⨀ [Desafio JS 4/7](#7daysofcode---lógica-js-47-loops-e-randomização)
 
 ⨀ [Desafio JS 5/7](#7daysofcode---lógica-js-57-arrays-e-coleções)
 
@@ -128,7 +111,7 @@ Além disso, também é essencial que, ao final do jogo, ela possa inserir quant
 
 [Solução Desafio 3]()
 
-## 7DaysOfCode - Lógica JS 4/7: Mais loops e randomização
+## 7DaysOfCode - Lógica JS 4/7: Loops e Randomização
 
 Você deve criar um programinha que comece com um valor específico pré-definido entre 0 a 10 para o número que você vai adivinhar (7, por exemplo).
 
@@ -141,7 +124,7 @@ Depois que o programinha estiver funcionando, tente usar um número randômico e
 
 [Solução Desafio 4]()
 
-## 7DaysOfCode - Lógica JS 5/7: Arrays e coleções
+## 7DaysOfCode - Lógica JS 5/7: Arrays e Coleções
 
 Então hoje, para facilitar a sua ida ao supermercado, você deve criar um programa em Javascript que perguntará se 
 você deseja adicionar uma comida na sua lista de compras, e você deve poder responder com sim ou não.
@@ -204,4 +187,3 @@ As opções disponíveis deverão ser: soma, subtração, multiplicação, divis
 o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
 
 [Solução Desafio 7]()
-
