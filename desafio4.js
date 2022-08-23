@@ -8,7 +8,7 @@ let acertou = false;
 for (let contador = 1; contador < 4; contador++) {
     chute = prompt("Tente adivinhar o número de 0 a 10: \nVocê tem 3 Tentativas, essa é sua " + [contador] + "ª");
     // Enquanto o chute não for um valor de 0 a 10
-    while (10 < chute | chute < 0 | chute == "") {
+    while (10 < chute || chute < 0 || chute == "") {
         alert("O número deve ser de 0 a 10, tente novamente!")
         chute = prompt("Tente adivinhar o número de 0 a 10: \nVocê tem 3 Tentativas, essa é sua " + [contador] + "ª");
     }
@@ -47,7 +47,7 @@ if (!acertou) {
 //       "ª"
 //   );
 //   // Enquanto o chute não for um valor de 0 a 10
-//   while ((10 < chute) | (chute < 0) | (chute == "")) {
+//   while ((10 < chute) || (chute < 0) || (chute == "")) {
 //     alert("O número deve ser de 0 a 10, tente novamente!");
 //     chute = prompt(
 //       "Tente adivinhar o número de 0 a 10: \nVocê tem 3 Tentativas, essa é sua " +
