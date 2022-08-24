@@ -1,30 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio 7-7 / Funções em Javascript</title>
-</head>
-
-<body>
-    #7DaysOfCode <br>
-    Rafa Ballerini <br>
-    Instrutora Front-End na Alura <br>
-    Funções em Javascript <br>
-    <br>
-    <hr><br>
-
-    <script>
-
         let valor1;
         let valor2;
         let operacao = "";
-
-        // function imprimir {
-
-        // }
 
         function soma(valor1, valor2) {
             return Number(valor1) + Number(valor2);
@@ -72,8 +48,3 @@
 
         } while (operacao === "soma" || operacao === "subtração" || operacao === "multiplicação" || operacao === "divisão")
         alert(`Até a próxima!`);
-
-    </script>
-</body>
-
-</html>
