@@ -21,7 +21,7 @@
 
 ## 7DaysOfCode - Lógica JS 1/7: Operações Booleanas
 
-<p>Sendo assim, a sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, 
+<p>Sua tarefa é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, 
 que faça sentido e sem erros:</p>
   
 let numeroUm = 1
