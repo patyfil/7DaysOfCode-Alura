@@ -54,7 +54,7 @@ let stringDez = '10'
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }</code>
 
-[Solucão Desafio 1](https://gist.github.com/fabriciocarraro/8261fd75a92d761b704c6f0997b32264)
+[Solucão Desafio 1](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript/blob/main/desafio1.html)
 
 ## 7DaysOfCode - Lógica JS 2/7: Variáveis 
 
